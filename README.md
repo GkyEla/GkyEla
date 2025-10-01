@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-
+```mermaid
 mindmap
   root((💡 Gökay Yılmaz — AI Engineer & Builder))
     ((🧠 Core Strengths))
