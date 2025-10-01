@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/insert some_code here.gif" alt="Gokay Yilmaz — AI Engineer" width="100%" style="max-width:900px; filter: brightness(1.8) contrast(1.2);">
+</p>
+
 ```mermaid
 %%{init: {
   "theme": "base",
