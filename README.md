@@ -31,8 +31,8 @@ mindmap
     ((💻 Languages))
       Python
       JavaScript
-      TypeScript
-      R
+      C++
+      Rust
       SQL
       Bash
       PowerShell
@@ -44,7 +44,6 @@ mindmap
       Django
       FastAPI
       Express
-      Streamlit
     ((🎨 UI / UX))
       Material-UI
       TailwindCSS
