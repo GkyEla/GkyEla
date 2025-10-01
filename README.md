@@ -2,13 +2,19 @@
 
 
 
-
-
-
-```mermaid
 mindmap
-  root((Skills))
-    ((Languages))
+  root((💡 Gökay Yılmaz — AI Engineer & Builder))
+    ((🧠 Core Strengths))
+      Problem Solving
+      System Design
+      Scalability
+      Innovation
+      Leadership
+      Communication
+      Growth Mindset
+      Mentorship
+      Entrepreneurship
+    ((💻 Languages))
       Python
       JavaScript
       TypeScript
@@ -16,55 +22,78 @@ mindmap
       SQL
       Bash
       PowerShell
-    ((Frameworks))
+    ((⚙️ Frameworks & Libraries))
       React
+      Next.js
+      Electron
       Flask
       Django
       FastAPI
       Express
-      Electron
-      Next.js
       Dash
-      R-Shiny
       Streamlit
+      R-Shiny
       Pydantic
       SQLAlchemy
-    ((UI))
+    ((🎨 UI / UX))
       Material-UI
-      Tailwind
+      TailwindCSS
       Shadcn-UI
       Ant Design
       Bootstrap
-    ((AI/ML))
+      Framer Motion
+      Figma
+    ((🤖 AI / ML))
       PyTorch
       TensorFlow
-      Plotly
-      D3.js
+      Langchain
+      Scikit-Learn
       Pandas
       NumPy
       Matplotlib
       Seaborn
-      Scikit-Learn
-      Langchain
-    ((DevOps))
-      Git
-      Docker
-      CircleCI
-      GitHub Actions
-    ((Cloud))
-      AWS
+      Plotly
+      D3.js
+      Transformers
+      OpenAI API
+      Hugging Face
+    ((☁️ Cloud & DevOps))
+      ((AWS))
         S3
         Lambda
         SageMaker
-        SageMaker-Studio
-        Batch
-        ECR
+        ECS
         Fargate
         EC2
+        Load Balancer
+        ECR
+        Batch
         Workspaces
         Neptune
-        ECS
-        Load Balancer
       Terraform
-```
-
+      Docker
+      GitHub Actions
+      CircleCI
+      Kubernetes
+      Helm
+      Nginx
+      Cloudflare
+    ((🧩 Architecture & Tools))
+      Microservices
+      RESTful APIs
+      WebSockets
+      GraphQL
+      Message Queues (RabbitMQ / Kafka)
+      Redis
+      PostgreSQL
+      MongoDB
+      SQLite
+    ((🚀 Personal Traits))
+      Visionary Thinking
+      Curious Learner
+      Product-Oriented
+      AI Research Enthusiast
+      Open Source Contributor
+      Community Builder
+      Cross-Functional Collaboration
+      Passion for Innovation
