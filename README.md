@@ -1,6 +1,19 @@
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "transparent",
+    "primaryColor": "#E6F4FF",
+    "secondaryColor": "#F1F5F9",
+    "tertiaryColor": "#EEF2F7",
+    "primaryTextColor": "#0B1221",
+    "lineColor": "#94A3B8",
+    "fontFamily": "Inter, Segoe UI, Arial",
+    "fontSize": "14px"
+  }
+}}%%
 mindmap
-  root((💡 Gökay Yılmaz — AI Engineer & Builder))
+  root(( 🛰️ Gökay Yılmaz — AI Engineer & Builder))
     ((🧠 Core Strengths))
       Problem Solving
       System Design
@@ -27,32 +40,24 @@ mindmap
       Django
       FastAPI
       Express
-      Dash
       Streamlit
-      R-Shiny
-      Pydantic
-      SQLAlchemy
     ((🎨 UI / UX))
       Material-UI
       TailwindCSS
       Shadcn-UI
       Ant Design
       Bootstrap
-      Framer Motion
       Figma
     ((🤖 AI / ML))
       PyTorch
       TensorFlow
       Langchain
-      Scikit-Learn
-      Pandas
-      NumPy
-      Matplotlib
+      LLM Ops/Inference
+      Finetuning
       Seaborn
       Plotly
-      D3.js
       Transformers
-      OpenAI API
+      OpenAI API Server
       Hugging Face
     ((☁️ Cloud & DevOps))
       ((AWS))
@@ -67,30 +72,27 @@ mindmap
         Batch
         Workspaces
         Neptune
-      Terraform
       Docker
       GitHub Actions
       CircleCI
       Kubernetes
-      Helm
-      Nginx
-      Cloudflare
+      Rancher
+      Apache APISIX
     ((🧩 Architecture & Tools))
       Microservices
       RESTful APIs
       WebSockets
-      GraphQL
       Message Queues (RabbitMQ / Kafka)
       Redis
       PostgreSQL
       MongoDB
-      SQLite
+      ChromaDB
     ((🚀 Personal Traits))
-      Visionary Thinking
-      Curious Learner
-      Product-Oriented
-      AI Research Enthusiast
+      Problem Solver
+      Systems Thinker
+      Impact Oriented
+      End-to-End Builder
+      AI & Data Enthusiast
       Open Source Contributor
-      Community Builder
-      Cross-Functional Collaboration
-      Passion for Innovation
+      Startup DNA
+      Always Shipping
